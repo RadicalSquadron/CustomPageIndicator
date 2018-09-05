@@ -7,8 +7,8 @@ Steps to use:
 
 1: Declare the CustomPageControl class using,
 
-        let bottomViews = CustomPageControl(frame:bottomView.bounds)
-        //Assign the frame of a view, which is setup at the bottom for now.
+         let bottomViews = CustomPageControl(frame:bottomView.bounds)
+         //Assign the frame of a view, which is setup at the bottom for now.
 
 2. Select the current page number, for which the indicator is required.
 
